@@ -1,0 +1,15 @@
+# 签名密钥（勿提交）
+*.jks
+*.keystore
+keystore.properties
+
+# 构建产物
+build/
+.gradle/
+.kotlin/
+local.properties
+
+# 调试/测试产物（勿提交）
+/*.xml
+/*.db
+/hs_err*.log

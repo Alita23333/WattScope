@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.QptPowerMonitor" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:colorAccent">#33D6A6</item>
+    </style>
+</resources>
