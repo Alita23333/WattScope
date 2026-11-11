@@ -1,5 +1,7 @@
 # WattScope
 
+> WattScope 新版已迁至 [WattScope-Android](https://github.com/Alita23333/WattScope-Android)。新版源码和 APK 请前往新仓库查看。
+
 Android 高通 SoC 功耗遥测监控工具（需 root）。基于 **Qualcomm Power Telemetry（QPT）**，配合附加监控项，以极低的运行时开销实时查看并记录功耗、频率、温度、FPS 等数据。
 
 适用于已 root 的高通设备（KernelSU / Magisk），已在 Redmi K90 Pro Max（myron，Android 16）上验证。
